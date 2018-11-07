@@ -1,0 +1,15 @@
+{
+  "name": "storybookdevelopment",
+  "version": "1.0.0",
+  "description": "App to share public or write private stories",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Donny Techiera",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.3.10"
+  }
+}
